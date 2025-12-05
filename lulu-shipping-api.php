@@ -3,7 +3,7 @@
 Plugin Name: Lulu Shipping API Integration
 Description: Shows live Lulu shipping rates at checkout using Lulu's API.
 Version: 1.0
-Author: Umeh Pascal
+Author: Umeunegbu Pascal
 Author URI: https://umeunegbupascal.netlify.app/
 */
 

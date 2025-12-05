@@ -4,7 +4,7 @@
 Plugin Name: Lulu Print API Integration
 Description: Integrates with the Lulu Print API to create print jobs from WordPress.
 Version: 1.0
-Author: Umeh Pascal
+Author: Umeunegbu Pascal
 Author URI: https://umeunegbupascal.netlify.app/
 */
 
